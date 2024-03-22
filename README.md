@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oscar Carrillo
 - 👀 I’m interested in learning different computer languages and to become a better coder.
 - ✨Recent graduate student of Promineo Tech Back End Developer Program. 
-- 🐱‍🚀 Worked with Java, MySql, and Springboot. 
+- 🐱‍🚀 Introduction to Java, MySql, and Springboot. 
 - 🌱 I’m currently learning Javascript, HTML, CSS, Node with Express, and some introduction to Python.
 - 💞️ I’m looking to collaborate on projects to get some experience. 
 - 📫 How to reach me linkedin.com/in/oscar-c-1482b6163
