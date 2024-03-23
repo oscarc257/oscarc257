@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 My name is Oscar Carrillo
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=9863FF&random=false&width=435&lines=Hi+%F0%9F%91%8B+my+name+is+Oscar+Carrillo;Im+currently+in+the+process+of+;changing+careers+to+become+a+;Software+Developer." alt="Typing SVG" />👋
 </h1>
 
 <p align="center"> Currently a sofware developer student who is taking a career track course with Springboard Bootcamp. Looking to change careers and establish my transferable skill into software development. Coming from a background in Human Resources. I have taken some self learning courses before the Springboard program.</p>
