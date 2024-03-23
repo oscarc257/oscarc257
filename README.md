@@ -76,7 +76,7 @@
 <h2 align="center">✨ Stats ✨</h2>
 <br>
 <div align="center">
-    <img width=390 src="https://streak-stats.demolab.com?user=oscarc245&count_private=true&theme=solarized-dark&fire=EB5454" alt="GitHub Streak" />
+    <img width=390 src="https://streak-stats.demolab.com/?user=oscarc245&count_private=true&theme=solarized-dark&fire=EB5454" alt="GitHub Streak" />
 
 
 
