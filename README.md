@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=9863FF&random=false&width=435&lines=Hi+%F0%9F%91%8B+my+name+is+Oscar+Carrillo;Im+currently+in+the+process+of+;changing+careers+to+become+a+;Software+Developer." alt="Typing SVG" />👋
 </h1>
 
-<p align="center"> Currently a sofware developer student who is taking a career track course with Springboard Bootcamp. Looking to change careers and establish my transferable skill into software development. Coming from a background in Human Resources. I have taken some self learning courses before the Springboard program.</p>
+<p align="center"> Currently a Sofware Developer student who is taking a career track course with Springboard Bootcamp. Looking to change careers and become a better in software development. Coming from a background in Human Resources, I have acquired a few transferable skills that I can take with me on this new journey.</p>
 
-- 👀 I’m interested in learning different computer languages and to become a better coder.
-- ✨Recent graduate student of Promineo Tech Back End Developer Program.
+<br>
+
+- 👀 I’m currently focusing on strengthening my code.
+- ✨Recent graduate student of Promineo Tech Back End Developer Program (Jan, 2023).
 - 🐱‍🚀 Introduction to Java, MySql, and Springboot.
-- 🌱 I’m currently learning Javascript, HTML, CSS, Node with Express, and some introduction to Python.
-- 💞️ I’m looking to collaborate on projects to get some experience.
+- 🌱 I’m currently learning Javascript, HTML, CSS, Node, Express, and Python.
+- 💞️ I’m looking to collaborate on projects with other passionate developers.
 - 📫 How to reach me linkedin.com/in/oscar-c-1482b6163
 
 ### Portfolio: Currently in progress
