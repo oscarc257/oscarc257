@@ -58,7 +58,7 @@
 
 <h2 align="center">💞️  My Contributions 💞️</h2>
 <br>
-
+![Snake animation](https://github.com/oscarc257/oscarc257/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
