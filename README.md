@@ -11,13 +11,11 @@
 - 🐱‍🚀 Introduction to Java, MySql, and Springboot.
 - 🌱 I’m currently learning Javascript, HTML, CSS, Node, Express, and Python.
 - 💞️ I’m looking to collaborate on projects with other passionate developers.
-- 📫 How to reach me linkedin.com/in/oscar-c-1482b6163
-
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/oscarcar" target="_blank>
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+                       </a>
+  
 ### Portfolio: Currently in progress
-
-<!-- GitHub Stats -->
-<br>
-
 
 <br>
 
@@ -57,6 +55,12 @@
   <img alt="IBMSPSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
   <img alt="VSCODE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
 </p>
+
+<br>
+
+<h2>💞️  My Contributions 💞️</h2>
+<br>
+
 
 
 <!---
