@@ -76,17 +76,7 @@
 <h2 align="center">✨ Stats ✨</h2>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarc245&show_icons=true&theme=radical&border_radius=20px">
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=oscarc245&theme=solarized-dark&fire=EB5454" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarc245&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&border_radius=20px">
-</p>
 
 <br>
 
